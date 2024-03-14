@@ -1,0 +1,25 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΤΐΚ€ώÿÿÿÿ8δΪδηγ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©•ωΨωÿÿÿÿ8δΪδηγ1
+L
+java:S1197"*Move the array designators [] to the type.(ΎΙιΌϋÿÿÿÿ8¨Ϋδηγ1
+A
+java:S1659'"Declare "j" on a separate line.(α”ζεώÿÿÿÿ8¨Ϋδηγ1
+L
+java:S1197"*Move the array designators [] to the type.(ΤΐΚ€ώÿÿÿÿ8©Ϋδηγ1
+L
+java:S1197"*Move the array designators [] to the type.(©•ωΨωÿÿÿÿ8ªΫδηγ1
+L
+java:S1197H"*Move the array designators [] to the type.(ΦΉ€ήϊÿÿÿÿ8¬Ϋδηγ1
+G
+java:S1197X"*Move the array designators [] to the type.(ΔΒΛΣ8―Ϋδηγ1
+G	java:S106\"+Replace this use of System.out by a logger.(ΊΌΙ°8°Ϋδηγ1
+L	java:S106]"+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8°Ϋδηγ1
+L
+java:S1197a"*Move the array designators [] to the type.(Ί μύÿÿÿÿ8±Ϋδηγ1
+L
+java:S1197c"*Move the array designators [] to the type.(™έ‘Οωÿÿÿÿ8±Ϋδηγ1
+L	java:S106e"+Replace this use of System.out by a logger.(¥δΜόÿÿÿÿ8±Ϋδηγ1
+L	java:S106l"+Replace this use of System.out by a logger.(­€ψÿÿÿÿÿ8²Ϋδηγ1
+b
+java:S1128"ERemove this unused import 'com.sun.javafx.scene.traversal.Algorithm'.(ΐΛχ8³Ϋδηγ1
